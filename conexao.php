@@ -2,7 +2,7 @@
 $servidor = "localhost";
 $usuario = "root";
 $senha = "usbw";
-$banco = "sistema_crud";
+$banco = "poupanca";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $banco);
 
